@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Prachi/Machine-Learing-with-ML-flow/mlruns/0/1be6b560829e4fd8920d213bcfc3b87f/artifacts
+end_time: 1724444753637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1be6b560829e4fd8920d213bcfc3b87f
+run_name: unique-roo-632
+run_uuid: 1be6b560829e4fd8920d213bcfc3b87f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724444226049
+status: 3
+tags: []
+user_id: Prachi
